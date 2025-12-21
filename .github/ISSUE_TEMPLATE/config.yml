@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security Vulnerability
+    url: https://github.com/Operation-Hope/paper-trail-web/security/advisories/new
+    about: Report security vulnerabilities through GitHub Security Advisories
+  - name: Questions
+    url: https://github.com/Operation-Hope/paper-trail-web/discussions
+    about: Ask questions and get help from the community
